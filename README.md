@@ -1,1 +1,10 @@
 # Hasil_TA_WEB
+![Screenshot (376)](https://user-images.githubusercontent.com/46420684/56850862-87d9f400-6932-11e9-87ed-f90a52299c09.png)
+![Screenshot (368)](https://user-images.githubusercontent.com/46420684/56850863-87d9f400-6932-11e9-9bc2-d3fe44b59281.png)
+![Screenshot (369)](https://user-images.githubusercontent.com/46420684/56850864-88728a80-6932-11e9-96b0-8498a62d5f6c.png)
+![Screenshot (370)](https://user-images.githubusercontent.com/46420684/56850865-88728a80-6932-11e9-9eb3-f05aadcc0087.png)
+![Screenshot (371)](https://user-images.githubusercontent.com/46420684/56850866-88728a80-6932-11e9-9eb4-9bc0a19bae16.png)
+![Screenshot (372)](https://user-images.githubusercontent.com/46420684/56850867-890b2100-6932-11e9-9bfa-fe76fe7a10ad.png)
+![Screenshot (373)](https://user-images.githubusercontent.com/46420684/56850868-890b2100-6932-11e9-89c5-bb9f16d030ee.png)
+![Screenshot (374)](https://user-images.githubusercontent.com/46420684/56850869-89a3b780-6932-11e9-959a-4e4775693b1d.png)
+![Screenshot (375)](https://user-images.githubusercontent.com/46420684/56850871-8a3c4e00-6932-11e9-84e7-5548b8e70201.png)
